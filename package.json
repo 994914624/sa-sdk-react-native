@@ -1,18 +1,22 @@
 {
   "name": "sa-sdk-react-native",
   "version": "1.0.0",
-  "private": false,
-  "description": "神策分析 RN 组件",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/994914624/sa-sdk-react-native.git"
+  },
   "keywords": [
-    "sensors",
-    "analytics",
-    "神策",
-    "神策分析"
+    "神策"
   ],
-  "author": "zuowei.xiang",
-  "license": "Apache-2.0"
+  "author": "yzk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/994914624/sa-sdk-react-native/issues"
+  },
+  "homepage": "https://github.com/994914624/sa-sdk-react-native#readme"
 }
