@@ -1,4 +1,4 @@
-package im.shimo.sa;
+package com.sensorsdata.analytics;
 
 
 import android.text.TextUtils;
